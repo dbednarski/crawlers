@@ -113,7 +113,7 @@ Apenas dois comandos são permitidos para o RedditBot:
 
 Daniel Bednarski Ramos
 
-[https://www.astro.iag.usp.br/~bednarski](https://www.astro.iag.usp.br/~bednarski)
+[http://www.astro.iag.usp.br/~bednarski](https://www.astro.iag.usp.br/~bednarski)
 
 daniel.bednarski.ramos@gmail.com
 
